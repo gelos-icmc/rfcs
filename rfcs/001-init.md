@@ -82,7 +82,8 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
    do consenso da diretoria, a fase final deve ser cancelada e o RFC voltará
    para a fase de feedback. 
 7. Depois de 10 dias na fase final, o PR será mergeado ou fechado, com base no
-   consenso do grupo e diretoria.
+   consenso do grupo e diretoria. RFCs rejeitados podem ser refinados e abertos
+   como novos RFCs.
     - Em assuntos muito polêmicos, isto é, caso o RFC passe mais de um mês
         (contando a partir do primeiro feedback) sem um consenso, a diretoria
         deve votar entre aceitar ou rejeitar, sem mais mudanças ao texto.
