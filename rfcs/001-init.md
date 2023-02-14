@@ -71,10 +71,13 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
    preparado para revisar e incorporar mudanças.
 3. Encontre um co-autor. É obrigatório que haja pelo menos um membro apoiando e
    participando da idéia, para ajudar a refiná-la.
-4. A idéia deve ser divulgada nos canais do grupo.
+4. A idéia deve ser divulgada nos canais do grupo. Os membros darão feedback
+   diretamente no PR, e também é possível levar o assunto para reuniões (que
+   devem ter suas atas publicadas).
 5. Quando houver feedback suficiente, deve haver um consenso geral ao redor da
-   idéia. A diretoria também deve avaliar o RFC e tomar uma decisão conjunta. O
-   RFC entrará na fase final, que durará 10 dias corridos.
+   idéia. A diretoria também deve avaliar o RFC e tomar uma decisão conjunta, e
+   escrevê-la como comentário no PR. O RFC entrará na fase final, que durará 10
+   dias corridos.
 6. Caso surjam novas questões relevantes ou o consenso do grupo seja diferente
    do consenso da diretoria, a fase final deve ser cancelada e o RFC voltará
    para a fase de feedback. 
