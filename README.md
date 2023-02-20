@@ -22,17 +22,26 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
    impactos e pontos negativos da idéia. Crie um protótipo, caso faça sentido.
 2. Crie um pull request. O PR receberá feedback do grupo, e você deve estar
    preparado para revisar e incorporar mudanças.
-3. Encontre um co-autor. É obrigatório que haja pelo menos um membro apoiando e
-   participando da idéia, para ajudar a refiná-la.
-4. A idéia deve ser divulgada nos canais do grupo.
-5. Quando houver feedback suficiente, deve haver um consenso geral ao redor da
-   idéia. A diretoria também deve avaliar o RFC e tomar uma decisão conjunta. O
-   RFC entrará na fase final, que durará 10 dias corridos.
-6. Caso surjam novas questões relevantes ou o consenso do grupo seja diferente
-   do consenso da diretoria, a fase final deve ser cancelada e o RFC voltará
-   para a fase de feedback. 
+3. Encontre um co-autor. É obrigatório que haja pelo menos um outro membro
+   apoiando e participando da idéia, para ajudar a refiná-la.
+4. A idéia deve ser divulgada nos canais do grupo. Os membros (na diretoria ou
+   não) darão feedback diretamente no PR, e também é possível levar o assunto
+   para reuniões (que devem ter suas atas publicadas).
+5. Quando houver feedback suficiente para indicar consenso geral ao redor da
+   idéia, a diretoria também deve avaliar o RFC e tomar uma decisão inicial
+   conjunta (entre aceitar ou recusar, apenas), e escrevê-la como comentário no
+   PR. O RFC entrará na fase final, que durará 10 dias.
+    - A diretoria deve, obrigatoriamente, avaliar o RFC depois de 30 dias de
+        aberto, mesmo que não receba atenção suficiente do grupo ou não haja
+        consenso geral.
+    - A fase final deve ser anunciada amplamente dentro dos grupos e espaços do
+        GELOS.
+6. Caso surjam novas questões ou o consenso do grupo seja diferente do consenso
+   da diretoria, a fase final deve ser cancelada e o RFC voltará para a fase de
+   feedback.
+    - O cancelamento pode ocorrer, no máximo, duas vezes. Não havendo consenso
+        geral entre os envolvidos no final da terceira vez, ele será fechado
+        (podendo ser refinado e reaberto como um novo RFC).
 7. Depois de 10 dias na fase final, o PR será mergeado ou fechado, com base no
-   consenso do grupo e diretoria.
-    - Em assuntos muito polêmicos, isto é, caso o RFC passe mais de um mês
-        (contando a partir do primeiro feedback) sem um consenso, a diretoria
-        deve votar entre aceitar ou rejeitar, sem mais mudanças ao texto.
+   consenso geral. RFCs rejeitados podem ser refinados e abertos como novos
+   RFCs.
