@@ -69,8 +69,8 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
    impactos e pontos negativos da idéia. Crie um protótipo, caso faça sentido.
 2. Crie um pull request. O PR receberá feedback do grupo, e você deve estar
    preparado para revisar e incorporar mudanças.
-3. Encontre um co-autor. É obrigatório que haja pelo menos um membro apoiando e
-   participando da idéia, para ajudar a refiná-la.
+3. Encontre um co-autor. É obrigatório que haja pelo menos um outro membro
+   apoiando e participando da idéia, para ajudar a refiná-la.
 4. A idéia deve ser divulgada nos canais do grupo. Os membros darão feedback
    diretamente no PR, e também é possível levar o assunto para reuniões (que
    devem ter suas atas publicadas).
