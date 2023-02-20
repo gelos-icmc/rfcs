@@ -71,9 +71,9 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
    preparado para revisar e incorporar mudanças.
 3. Encontre um co-autor. É obrigatório que haja pelo menos um outro membro
    apoiando e participando da idéia, para ajudar a refiná-la.
-4. A idéia deve ser divulgada nos canais do grupo. Os membros darão feedback
-   diretamente no PR, e também é possível levar o assunto para reuniões (que
-   devem ter suas atas publicadas).
+4. A idéia deve ser divulgada nos canais do grupo. Os membros (na diretoria ou
+   não) darão feedback diretamente no PR, e também é possível levar o assunto
+   para reuniões (que devem ter suas atas publicadas).
 5. Quando houver feedback suficiente para indicar consenso geral ao redor da
    idéia, a diretoria também deve avaliar o RFC e tomar uma decisão inicial
    conjunta (entre aceitar ou recusar, apenas), e escrevê-la como comentário no
