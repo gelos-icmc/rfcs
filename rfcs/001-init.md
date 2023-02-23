@@ -74,24 +74,28 @@ que a coisa seja justa, não trave, e represente consenso no grupo.
 4. A ideia deve ser divulgada nos canais do grupo. Os membros (na diretoria ou
    não) darão feedback diretamente no PR, e também é possível levar o assunto
    para reuniões (que devem ter suas atas publicadas).
-5. Quando houver feedback suficiente para indicar consenso geral ao redor da
-   ideia, a diretoria também deve avaliar o RFC e tomar uma decisão inicial
-   conjunta (entre aceitar ou recusar, apenas), e escrevê-la como comentário no
-   PR. O RFC entrará na fase final, que durará 10 dias.
-    - A diretoria deve, obrigatoriamente, avaliar o RFC depois de 30 dias de
-        aberto, mesmo que não receba atenção suficiente do grupo ou não haja
-        consenso geral.
+5. Depois de 30 dias desde a abertura, ou atingido consenso geral (o que
+   ocorrer antes), a diretoria deve avaliar o RFC em seu estado atual e tomar
+   uma decisão conjunta (entre aceitar ou recusar, apenas), e escrevê-la como
+   comentário no PR. O RFC entrará na fase final, que durará 10 dias.
+    - Essa decisão conjunta não é um espaço para discussão de melhorias na
+        proposta. Os membros da diretoria devem dar feedback e levantar
+        questionamentos construtivos na fase de feedback, assim como qualquer
+        outro membro.
     - A fase final deve ser anunciada amplamente dentro dos grupos e espaços do
         GELOS.
 6. Caso surjam novas questões ou o consenso do grupo seja diferente do consenso
    da diretoria, a fase final deve ser cancelada e o RFC voltará para a fase de
    feedback.
-    - O cancelamento pode ocorrer, no máximo, duas vezes. Não havendo consenso
-        geral entre os envolvidos no final da terceira vez, ele será fechado
-        (podendo ser refinado e reaberto como um novo RFC).
-7. Depois de 10 dias na fase final, o PR será mergeado ou fechado, com base no
-   consenso geral. RFCs rejeitados podem ser refinados e abertos como novos
-   RFCs.
+    - O cancelamento pode ocorrer, no máximo, duas vezes. Se ainda houverem
+        questões pendentes na terceira vez, entende-se que a ideia ainda não
+        está madura (ou não haverá consenso) o suficiente; o RFC será fechado.
+7. Depois de 10 dias, a decisão dada pela diretoria em (5) será considerada
+   final.
+    - RFCs fechados podem ser refinados e abertos como novos PRs a qualquer
+        momento.
+    - RFCs mergeados passam a ser considerados política do grupo. Novos RFCs
+        podem suplantar RFCs anteriores, se nescessário.
 
 
 ## Alternativas
