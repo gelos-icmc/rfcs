@@ -13,22 +13,22 @@ RFC aqui.
 
 ## Processo de RFC
 
-A idéia é minimizar burocracia e acelerar mudanças (positivas) no grupo, bem
+A ideia é minimizar burocracia e acelerar mudanças (positivas) no grupo, bem
 como ter um histórico de decisões. Dito isso, precisamos de algumas regras para
 que a coisa seja justa, não trave, e represente consenso no grupo.
 
-0. Tenha uma idéia!
+0. Tenha uma ideia!
 1. Escreva o RFC. Coloque detalhes, argumentos convincentes, busque entender os
-   impactos e pontos negativos da idéia. Crie um protótipo, caso faça sentido.
+   impactos e pontos negativos da ideia. Crie um protótipo caso faça sentido.
 2. Crie um pull request. O PR receberá feedback do grupo, e você deve estar
    preparado para revisar e incorporar mudanças.
 3. Encontre um co-autor. É obrigatório que haja pelo menos um outro membro
-   apoiando e participando da idéia, para ajudar a refiná-la.
-4. A idéia deve ser divulgada nos canais do grupo. Os membros (na diretoria ou
+   apoiando e participando da ideia, para ajudar a refiná-la.
+4. A ideia deve ser divulgada nos canais do grupo. Os membros (na diretoria ou
    não) darão feedback diretamente no PR, e também é possível levar o assunto
    para reuniões (que devem ter suas atas publicadas).
 5. Quando houver feedback suficiente para indicar consenso geral ao redor da
-   idéia, a diretoria também deve avaliar o RFC e tomar uma decisão inicial
+   ideia, a diretoria também deve avaliar o RFC e tomar uma decisão inicial
    conjunta (entre aceitar ou recusar, apenas), e escrevê-la como comentário no
    PR. O RFC entrará na fase final, que durará 10 dias.
     - A diretoria deve, obrigatoriamente, avaliar o RFC depois de 30 dias de
